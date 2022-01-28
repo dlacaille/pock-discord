@@ -1,0 +1,16 @@
+#
+#  Podfile
+#  PockDiscord
+#
+#  Created by Dominic Lacaille on 2022-01-28.
+#  
+# 
+
+target 'PockDiscord' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for PockDiscord
+  pod 'PockKit'
+
+end

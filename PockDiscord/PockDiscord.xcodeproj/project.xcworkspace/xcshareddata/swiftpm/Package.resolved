@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PockKit",
+        "repositoryURL": "https://github.com/pock/pockkit.git",
+        "state": {
+          "branch": null,
+          "revision": "cd7cd2b7a7d0b4875eebb25b129449d8023b1f3f",
+          "version": "0.3.1"
+        }
+      },
+      {
+        "package": "TinyConstraints",
+        "repositoryURL": "https://github.com/roberthein/TinyConstraints.git",
+        "state": {
+          "branch": null,
+          "revision": "3262e5c591d4ab6272255df2087a01bbebd138dc",
+          "version": "4.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
